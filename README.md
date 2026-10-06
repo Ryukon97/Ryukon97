@@ -14,14 +14,14 @@
 ---
 
 ## 📌 Projects
-| Month | Project | Platform | Role | Steam |
+| No. | Project | Platform | Role | Steam |
 |:---:|---|---|---|:---:|
-| 04 | 🔗 [**MasterTool**](https://github.com/Ryukon97/MasterTool) | PC · Mobile · VR | 개인 · 비주얼노벨 대화 툴, ID 시스템 | — |
-| 05 | 🔗 [**Mirrors**](https://github.com/Ryukon97/Mirrors) | PC | 배틀씬 · 월드맵 UI, 셰이더, 통합 | — |
-| 06 | 🔗 [**ZombieShooting**](https://github.com/Ryukon97/ZombieShooting) | VR | 팀 프로젝트 | — |
-| 07 | 🔗 [**PixelChroma**](https://github.com/Ryukon97/PixelChroma) | PC · Steam | 캐릭터 애니메이션 · UI · 스팀 에셋 · 맵 | [![Steam](https://img.shields.io/badge/Steam-Store-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/5023800/Pixel_Chroma/) |
-| 07 | 🔗 [**BackTogether**](https://github.com/Ryukon97/BackTogether) | PC · Steam | 아트 | [![Steam](https://img.shields.io/badge/Steam-Store-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/5086830/BACK_TOGETHER/) |
-| 08 | 🔗 [**Poltergeist**](https://github.com/Ryukon97/Poltergeist) | Mobile | 기업협약 · 로고 · 캐릭터 컨셉 · UI · 스킬 시스템 | — |
+| 1 | 🔗 [**MasterTool**](https://github.com/Ryukon97/MasterTool) | PC · Mobile · VR | 개인 · 비주얼노벨 대화 툴, ID 시스템 | — |
+| 2 | 🔗 [**Mirrors**](https://github.com/Ryukon97/Mirrors) | PC | 배틀씬 · 월드맵 UI, 셰이더, 통합 | — |
+| 3 | 🔗 [**ZombieShooting**](https://github.com/Ryukon97/ZombieShooting) | VR | 팀 프로젝트 | — |
+| 4-1 | 🔗 [**PixelChroma**](https://github.com/Ryukon97/PixelChroma) | PC · Steam | 캐릭터 애니메이션 · UI · 스팀 에셋 · 맵 | [![Steam](https://img.shields.io/badge/Steam-Store-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/5023800/Pixel_Chroma/) |
+| 4-2 | 🔗 [**BackTogether**](https://github.com/Ryukon97/BackTogether) | PC · Steam | 아트 | [![Steam](https://img.shields.io/badge/Steam-Store-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/5086830/BACK_TOGETHER/) |
+| 5 | 🔗 [**Poltergeist**](https://github.com/Ryukon97/Poltergeist) | Mobile | 기업협약 · 로고 · 캐릭터 컨셉 · UI · 스킬 시스템 | — |
 
 ---
 
