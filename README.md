@@ -8,7 +8,7 @@
                                         Art & Animation & Shader & Tool  /  2D & 3D Game Artist
 ```
 
-                                              Art Poltpolio : https://canva.link/29j90fq6pz5q83h
+<p align="center"><b>🎨 Art Portfolio : <a href="https://canva.link/29j90fq6pz5q83h">https://canva.link/29j90fq6pz5q83h</a></b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=2D+%26+3D+Game+Artist;Character+Concept+%C2%B7+UI+%C2%B7+Animation;Toon+Shader+%26+Unity+Tool+Maker;PC+%C2%B7+Mobile+%C2%B7+VR+%C2%B7+Steam" alt="Typing SVG" />
