@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryukon97&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ryukon97.Ryukon97&left_text=Profile%20Views&left_color=%23555555&right_color=%233b82f6" alt="Profile Views" />
   <a href="mailto:970626ls@naver.com"><img src="https://img.shields.io/badge/Email-970626ls%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
 </p>
 
