@@ -98,5 +98,5 @@ var currentFocus = new Dictionary<string, string[]>
 
 ---
 
-<p align="center"><i>"그린 것이 움직일 때까지."</i></p>
+<p align="center"><i>"빠지고 싶은 이세계를 창조하자"</i></p>
 <p align="center">Let's make something worth playing.</p>
