@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Joeng%20Hae%20Yang&fontSize=60&fontColor=ffffff&fontAlignY=38" alt="Joeng Hae Yang" width="100%" />
+</p>
+
 ```
                                          ██████╗ ██╗   ██╗██╗   ██╗██╗  ██╗ ██████╗ ███╗   ██╗
                                          ██╔══██╗╚██╗ ██╔╝██║   ██║██║ ██╔╝██╔═══██╗████╗  ██║
