@@ -19,6 +19,18 @@
 
 ---
 
+## 📌 Projects
+| Month | Project | Platform | Role |
+|:---:|---|---|---|
+| 04 | 🔗 [**MasterTool**](https://github.com/Ryukon97/MasterTool) | PC · Mobile · VR | 개인 · 비주얼노벨 대화 툴, ID 시스템 |
+| 05 | 🔗 [**Mirrors**](https://github.com/Ryukon97/Mirrors) | PC | 배틀씬 · 월드맵 UI, 셰이더, 통합 |
+| 06 | 🔗 [**ZombieShooting**](https://github.com/Ryukon97/ZombieShooting) | VR | 팀 프로젝트 |
+| 07 | 🔗 [**PixelChroma**](https://github.com/Ryukon97/PixelChroma) | PC · Steam | 캐릭터 애니메이션 · UI · 스팀 에셋 · 맵 |
+| 07 | 🔗 [**BackTogether**](https://github.com/Ryukon97/BackTogether) | PC · Steam | 아트 |
+| 08 | 🔗 [**Poltergeist**](https://github.com/Ryukon97/Poltergeist) | Mobile | 기업협약 · 로고 · 캐릭터 컨셉 · UI · 스킬 시스템 |
+
+---
+
 ## 🧠 About Me
 아트로 시작해서, 직접 만든 그림이 **게임 안에서 움직이게** 만드는 데까지 하는 게임 아티스트 **정해양**입니다.
 
@@ -81,18 +93,6 @@ var currentFocus = new Dictionary<string, string[]>
     ["VR"]     = new[] { "Meta Quest 3S", "character interaction", "visual novel" },
 };
 ```
-
----
-
-## 📌 Projects
-| Month | Project | Platform | Role |
-|:---:|---|---|---|
-| 04 | 🔗 [**MasterTool**](https://github.com/Ryukon97/MasterTool) | PC · Mobile · VR | 개인 · 비주얼노벨 대화 툴, ID 시스템 |
-| 05 | 🔗 [**Mirrors**](https://github.com/Ryukon97/Mirrors) | PC | 배틀씬 · 월드맵 UI, 셰이더, 통합 |
-| 06 | 🔗 [**ZombieShooting**](https://github.com/Ryukon97/ZombieShooting) | VR | 팀 프로젝트 |
-| 07 | 🔗 [**PixelChroma**](https://github.com/Ryukon97/PixelChroma) | PC · Steam | 캐릭터 애니메이션 · UI · 스팀 에셋 · 맵 |
-| 07 | 🔗 [**BackTogether**](https://github.com/Ryukon97/BackTogether) | PC · Steam | 아트 |
-| 08 | 🔗 [**Poltergeist**](https://github.com/Ryukon97/Poltergeist) | Mobile | 기업협약 · 로고 · 캐릭터 컨셉 · UI · 스킬 시스템 |
 
 ---
 
