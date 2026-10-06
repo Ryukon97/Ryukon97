@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="RYUKON · Art → Animation → Shader → Tool · 2D & 3D Game Artist" width="700" />
+  <img src="./banner.svg?v=2" alt="RYUKON · Art → Animation → Shader → Tool · 2D & 3D Game Artist" width="700" />
 </p>
 
 <p align="center">
