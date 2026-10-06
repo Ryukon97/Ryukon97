@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="191" viewBox="0 0 700 191">
+  <defs>
+    <linearGradient id="rainbow" x1="0" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#ff3b3b"/>
+      <stop offset="0.17" stop-color="#ff9f1c"/>
+      <stop offset="0.33" stop-color="#ffe600"/>
+      <stop offset="0.5" stop-color="#2ee66b"/>
+      <stop offset="0.67" stop-color="#20b8ff"/>
+      <stop offset="0.83" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#ff3b3b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="700 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Consolas, 'DejaVu Sans Mono', 'Menlo', 'Courier New', monospace" font-size="18" fill="url(#rainbow)" xml:space="preserve">
+    <text x="63.8" y="30.0" textLength="572.4" lengthAdjust="spacingAndGlyphs">██████╗ ██╗   ██╗██╗   ██╗██╗  ██╗ ██████╗ ███╗   ██╗</text>
+    <text x="63.8" y="50.2" textLength="572.4" lengthAdjust="spacingAndGlyphs">██╔══██╗╚██╗ ██╔╝██║   ██║██║ ██╔╝██╔═══██╗████╗  ██║</text>
+    <text x="63.8" y="70.3" textLength="572.4" lengthAdjust="spacingAndGlyphs">██████╔╝ ╚████╔╝ ██║   ██║█████╔╝ ██║   ██║██╔██╗ ██║</text>
+    <text x="63.8" y="90.5" textLength="572.4" lengthAdjust="spacingAndGlyphs">██╔══██╗  ╚██╔╝  ██║   ██║██╔═██╗ ██║   ██║██║╚██╗██║</text>
+    <text x="63.8" y="110.6" textLength="572.4" lengthAdjust="spacingAndGlyphs">██║  ██║   ██║   ╚██████╔╝██║  ██╗╚██████╔╝██║ ╚████║</text>
+    <text x="63.8" y="130.8" textLength="572.4" lengthAdjust="spacingAndGlyphs">╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝</text>
+  </g>
+  <text x="350.0" y="177.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="url(#rainbow)">Art → Animation → Shader → Tool  ·  2D &amp; 3D Game Artist</text>
+</svg>
