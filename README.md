@@ -13,7 +13,7 @@
 ```
 
 <p align="center"><b>🎨 Art Portfolio : <a href="https://canva.link/29j90fq6pz5q83h">https://canva.link/29j90fq6pz5q83h</a></b></p>
-<p align="center"><b>🎨 Art Portfolio : <a href="localhost:4173">localhost:4173</a></b></p>
+<p align="center"><b>🏠 Homepage : <a href="https://haeyangjeong.github.io/">https://haeyangjeong.github.io/</a></b></p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=2D+%26+3D+Game+Artist;Character+Concept+%C2%B7+UI+%C2%B7+Animation;Toon+Shader+%26+Unity+Tool+Maker;PC+%C2%B7+Mobile+%C2%B7+VR+%C2%B7+Steam" alt="Typing SVG" />
 </p>
@@ -28,13 +28,13 @@
 ## 📌 Projects
 | No. | Project | Platform | Role | Steam |
 |:---:|---|---|---|:---:|
-| 1 | 🔗 [**MasterTool**](https://github.com/Ryukon97/MasterTool) | PC · Mobile · VR | 개인 · 비주얼노벨 대화 툴, ID 시스템 | — |
-| 2 | 🔗 [**Mirrors**](https://github.com/Ryukon97/Mirrors) | PC | 배틀씬 · 월드맵 UI, 셰이더, 통합 | — |
-| 3 | 🔗 [**ZombieShooting**](https://github.com/Ryukon97/ZombieShooting) | VR | 팀 프로젝트 | — |
+| 1 | 🔗 [**MasterTool**](https://github.com/haeyangjeong/MasterTool) | PC · Mobile · VR | 개인 · 비주얼노벨 대화 툴, ID 시스템 | — |
+| 2 | 🔗 [**Mirrors**](https://github.com/haeyangjeong/Mirrors) | PC | 배틀씬 · 월드맵 UI, 셰이더, 통합 | — |
+| 3 | 🔗 [**ZombieShooting**](https://github.com/haeyangjeong/ZombieShooting) | VR | 팀 프로젝트 | — |
 | 4-1 | 🔗 [**PixelChroma**](https://store.steampowered.com/app/5023800/Pixel_Chroma/) | PC · Steam | 캐릭터 애니메이션 · UI · 스팀 에셋 · 맵 | [![Steam](https://img.shields.io/badge/Steam-Store-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/5023800/Pixel_Chroma/) |
 | 4-2 | 🔗 [**BackTogether**](https://store.steampowered.com/app/5086830/BACK_TOGETHER/) | PC · Steam | 아트 | [![Steam](https://img.shields.io/badge/Steam-Store-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/5086830/BACK_TOGETHER/) |
-| 5 | 🔗 [**Poltergeist**](https://github.com/Ryukon97/Poltergeist) | Mobile | 기업협약 · 로고 · 캐릭터 컨셉 · UI · 스킬 시스템 | — |
-| 6 | 🔗 [**JowelRun**](https://github.com/Ryukon97/JowelRun) | PC · Mobile | 개인 · 쿠키런 방식 러너 게임 (맵 테마 · 아이템 · UI · 사운드) | — |
+| 5 | 🔗 [**Poltergeist**](https://github.com/haeyangjeong/Poltergeist) | Mobile | 기업협약 · 로고 · 캐릭터 컨셉 · UI · 스킬 시스템 | — |
+| 6 | 🔗 [**JowelRun**](https://github.com/haeyangjeong/JowelRun) | PC · Mobile | 개인 · 쿠키런 방식 러너 게임 (맵 테마 · 아이템 · UI · 사운드) | — |
 
 ---
 
@@ -80,12 +80,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ryukon97&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukon97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haeyangjeong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeyangjeong&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ryukon97&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=haeyangjeong&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
